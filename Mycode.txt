@@ -13,3 +13,7 @@ Author - prakash
 5 - settings screen code
 
 6 - hiding the last seen
+
+7. video call feauture newly added.
+
+
