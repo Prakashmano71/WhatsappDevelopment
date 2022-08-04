@@ -11,3 +11,5 @@ Author - prakash
 4 - calls screen code
 
 5 - settings screen code
+
+6 - hiding the last seen
